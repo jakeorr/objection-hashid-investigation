@@ -1,0 +1,15 @@
+{
+  "name": "objection-hashid-investigation",
+  "version": "1.0.0",
+  "description": "Project to reproduce objection-hashid hashedFields issue",
+  "main": "index.js",
+  "repository": "https://github.com/jakeorr/objection-hashid-investigation.git",
+  "author": "jakeorr <jake.a.orr@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "knex": "^0.95.6",
+    "objection": "^2.2.15",
+    "objection-hashid": "^2.1.1",
+    "pg": "^8.6.0"
+  }
+}
